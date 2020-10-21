@@ -1,7 +1,7 @@
 ## Introdução a Data Science com IBM Cloud 
 
 
-###Predição de número de habitantes com base em GVA's de uma cidade
+### Predição de número de habitantes com base em GVA's de uma cidade
 
 #### Rodando o app localmente
 
