@@ -5,7 +5,10 @@
 
 #### Rodando o app localmente
 
-Para rodar o app localmente, clone o git, insira suas credenciais do Watson Machine Learning no arquivo `env.sample` e execute os seguintes comandos:
+Para rodar o app localmente, clone o repositório ```git clone https://github.com/fernandozoomp/ML-com-IBM-Cloud.git```
+
+
+insira suas credenciais do Watson Machine Learning no arquivo `env.sample` e execute os seguintes comandos:
 ```
 cp env.sample .env
 npm i --only=prod
